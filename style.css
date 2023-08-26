@@ -1,0 +1,30 @@
+h1 {
+    color: blue;
+    font-size: 60px;
+    font-family: sans-serif;
+    font font-weight: 700;
+    letter-spacing: 23px;
+    margin: 100px 150px;
+
+}
+h2 {
+
+      color: red;
+    font-size: 60px;
+    font-family: sans-serif;
+    font font-weight: 700;
+    letter-spacing: 23px;
+    margin: 100px 150px;
+}
+
+p {
+      color: rgba(0, 255, 64, 0.904);
+    font-size: 60px;
+    font-family: sans-serif;
+    font font-weight: 700;
+    letter-spacing: 23px;
+    margin: 100px 150px;
+    line: heigth 100px;
+    background: red;
+    
+}
